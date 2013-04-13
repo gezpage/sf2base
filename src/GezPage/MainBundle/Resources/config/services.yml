@@ -1,0 +1,7 @@
+parameters:
+#    gez_page_main.example.class: GezPage\MainBundle\Example
+
+services:
+#    gez_page_main.example:
+#        class: %gez_page_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
