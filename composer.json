@@ -30,7 +30,10 @@
         "sensio/generator-bundle": "2.2.*",
         "braincrafted/bootstrap-bundle": "dev-master",
         "twitter/bootstrap": "2.3.*",
-        "jquery/jquery": "1.9.*"
+        "jquery/jquery": "1.9.*",
+        "behat/behat": "*",
+        "behat/mink-extension": "*",
+        "behat/symfony2-extension": "*"
     },
     "scripts": {
         "post-install-cmd": [
